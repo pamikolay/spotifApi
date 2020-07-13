@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="TestService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:52764/TestService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:52764/TestService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:52764/TestService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ServiceProyect.Entities" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ITestService_DoWork_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoWork" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_DoWork_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoWorkResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Ready_InputMessage">
+    <wsdl:part name="parameters" element="tns:Ready" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Ready_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReadyResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Auth_InputMessage">
+    <wsdl:part name="parameters" element="tns:Auth" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Auth_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AuthResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetAllCategories_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCategories" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetAllCategories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCategoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetCategoryPlaylists_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCategoryPlaylists" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetCategoryPlaylists_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCategoryPlaylistsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetPlaylistTracks_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlaylistTracks" />
+  </wsdl:message>
+  <wsdl:message name="ITestService_GetPlaylistTracks_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlaylistTracksResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ITestService">
+    <wsdl:operation name="DoWork">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/DoWork" message="tns:ITestService_DoWork_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/DoWorkResponse" message="tns:ITestService_DoWork_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Ready">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/Ready" message="tns:ITestService_Ready_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/ReadyResponse" message="tns:ITestService_Ready_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Auth">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/Auth" message="tns:ITestService_Auth_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/AuthResponse" message="tns:ITestService_Auth_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/Login" message="tns:ITestService_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/LoginResponse" message="tns:ITestService_Login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCategories">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/GetAllCategories" message="tns:ITestService_GetAllCategories_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/GetAllCategoriesResponse" message="tns:ITestService_GetAllCategories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCategoryPlaylists">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/GetCategoryPlaylists" message="tns:ITestService_GetCategoryPlaylists_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/GetCategoryPlaylistsResponse" message="tns:ITestService_GetCategoryPlaylists_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlaylistTracks">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITestService/GetPlaylistTracks" message="tns:ITestService_GetPlaylistTracks_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITestService/GetPlaylistTracksResponse" message="tns:ITestService_GetPlaylistTracks_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ITestService" type="tns:ITestService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DoWork">
+      <soap:operation soapAction="http://tempuri.org/ITestService/DoWork" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Ready">
+      <soap:operation soapAction="http://tempuri.org/ITestService/Ready" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Auth">
+      <soap:operation soapAction="http://tempuri.org/ITestService/Auth" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/ITestService/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCategories">
+      <soap:operation soapAction="http://tempuri.org/ITestService/GetAllCategories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCategoryPlaylists">
+      <soap:operation soapAction="http://tempuri.org/ITestService/GetCategoryPlaylists" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlaylistTracks">
+      <soap:operation soapAction="http://tempuri.org/ITestService/GetPlaylistTracks" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="TestService">
+    <wsdl:port name="BasicHttpBinding_ITestService" binding="tns:BasicHttpBinding_ITestService">
+      <soap:address location="http://localhost:52764/TestService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

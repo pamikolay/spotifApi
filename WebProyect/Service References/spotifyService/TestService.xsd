@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ServiceProyect.Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ServiceProyect.Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="AuthToken">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AccessToken" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExpiresIn" type="xs:int" />
+      <xs:element minOccurs="0" name="RefreshToken" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Scope" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TokenType" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AuthToken" nillable="true" type="tns:AuthToken" />
+  <xs:complexType name="ArrayOfCategory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Category" nillable="true" type="tns:Category" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCategory" nillable="true" type="tns:ArrayOfCategory" />
+  <xs:complexType name="Category">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Icons" nillable="true" type="tns:ArrayOfImage" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Category" nillable="true" type="tns:Category" />
+  <xs:complexType name="ArrayOfImage">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Image" nillable="true" type="tns:Image" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfImage" nillable="true" type="tns:ArrayOfImage" />
+  <xs:complexType name="Image">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Height" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Width" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Image" nillable="true" type="tns:Image" />
+  <xs:complexType name="ArrayOfPlaylist">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Playlist" nillable="true" type="tns:Playlist" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPlaylist" nillable="true" type="tns:ArrayOfPlaylist" />
+  <xs:complexType name="Playlist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Images" nillable="true" type="tns:ArrayOfImage" />
+      <xs:element minOccurs="0" name="Tracks" nillable="true" type="tns:ArrayOfPlaylistTrack" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Playlist" nillable="true" type="tns:Playlist" />
+  <xs:complexType name="ArrayOfPlaylistTrack">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PlaylistTrack" nillable="true" type="tns:PlaylistTrack" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPlaylistTrack" nillable="true" type="tns:ArrayOfPlaylistTrack" />
+  <xs:complexType name="PlaylistTrack">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Total" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PlaylistTrack" nillable="true" type="tns:PlaylistTrack" />
+  <xs:complexType name="ArrayOfTrackDetail">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TrackDetail" nillable="true" type="tns:TrackDetail" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTrackDetail" nillable="true" type="tns:ArrayOfTrackDetail" />
+  <xs:complexType name="TrackDetail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Track" nillable="true" type="tns:Track" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TrackDetail" nillable="true" type="tns:TrackDetail" />
+  <xs:complexType name="Track">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Album" nillable="true" type="tns:Album" />
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Popularity" type="xs:int" />
+      <xs:element minOccurs="0" name="PreviewUrl" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Uri" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Track" nillable="true" type="tns:Track" />
+  <xs:complexType name="Album">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AlbumType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Artists" nillable="true" type="tns:ArrayOfArtist" />
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Album" nillable="true" type="tns:Album" />
+  <xs:complexType name="ArrayOfArtist">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Artist" nillable="true" type="tns:Artist" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfArtist" nillable="true" type="tns:ArrayOfArtist" />
+  <xs:complexType name="Artist">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Href" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Uri" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Artist" nillable="true" type="tns:Artist" />
+</xs:schema>

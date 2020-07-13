@@ -1,0 +1,12 @@
+﻿#validateCategory{
+    vertical-align: -webkit-baseline-middle;
+}
+
+#validateError{
+    margin-left: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+    background-color: red;
+}

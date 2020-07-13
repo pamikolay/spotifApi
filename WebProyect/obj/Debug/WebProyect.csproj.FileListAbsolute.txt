@@ -1,0 +1,246 @@
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\ApplicationInsights.config
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\csc.exe
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\vbc.exe
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\WebProyect.dll.config
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\WebProyect.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\WebProyect.pdb
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Antlr3.Runtime.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\EntityFramework.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.Web.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Newtonsoft.Json.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Owin.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Helpers.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Mvc.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Optimization.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Razor.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\WebGrease.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.Web.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Helpers.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Mvc.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Optimization.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.Razor.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Newtonsoft.Json.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\EntityFramework.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\EntityFramework.SqlServer.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\obj\Debug\WebProyect.csprojResolveAssemblyReference.cache
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\obj\Debug\WebProyect.dll
+C:\Users\Developer\documents\visual studio 2015\Projects\WebProyect\WebProyect\obj\Debug\WebProyect.pdb
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\ApplicationInsights.config
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\csc.exe
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\vbc.exe
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\WebProyect.dll.config
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\WebProyect.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\WebProyect.pdb
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\EntityFramework.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.Web.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Owin.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Helpers.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Mvc.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Optimization.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Razor.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\WebGrease.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.Web.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Helpers.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Mvc.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Optimization.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.Razor.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\EntityFramework.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\EntityFramework.SqlServer.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\obj\Debug\WebProyect.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\obj\Debug\WebProyect.dll
+C:\Users\Developer\Desktop\Work\PatagonianIt\Proyects\WebProyect\WebProyect\obj\Debug\WebProyect.pdb
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\ApplicationInsights.config
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\csc.exe
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\vbc.exe
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\WebProyect.dll.config
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\WebProyect.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\WebProyect.pdb
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\EntityFramework.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.Web.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Owin.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Helpers.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Mvc.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Optimization.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Razor.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\WebGrease.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.Web.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Helpers.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Mvc.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Optimization.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.Razor.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\EntityFramework.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\EntityFramework.SqlServer.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\obj\Debug\WebProyect.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\obj\Debug\WebProyect.dll
+C:\Users\Developer\Desktop\Work\apiSpotify\Proyects\PatagonianIt\WebProyect\obj\Debug\WebProyect.pdb

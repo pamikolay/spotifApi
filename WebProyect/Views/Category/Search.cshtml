@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "Search By Categories";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{
+    <script src="~/Content/js/SearchByCategory.js"></script>
+}
+
+@section styles{
+    <link href="~/Content/css/SearchByCategory.css" rel="stylesheet" />
+}
+
+<h2>Search By Category</h2>
+
+<div class="row">
+    <div class="col-md-5">
+        <form id="search_form">
+            <br />
+            <!-- Search input-->
+            <div class="form-group">
+                <label class="control-label">Category</label>
+                <div class="inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-music"></i></span>
+                        <input id="category" name="category" placeholder="Enter a category to search" data-url="@Url.Action("GetSongs","Category")" class="form-control" type="text">
+                    </div>
+                </div>
+            </div>
+
+            <!-- id_category input-->
+            <div class="form-group hidden">
+                <label class="control-label">CategoryId</label>
+                <div class="inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input id="idCategory" name="idCategory" placeholder="Category" class="form-control" type="text">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Categories select -->
+            <div class="form-group hidden">
+                <label class="col-md-4 control-label">Categories</label>
+                <div class="col-md-4 selectContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+                        <select class="form-control selectpicker" id="categorySelect" name="categorySelect">
+                            <option value="">Select category</option>
+                            @foreach (WebProyect.spotifyService.Category row in ViewBag.Categories)
+                            {
+                                <option value="@row.Id">@row.Name</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="control-label"></label>
+                <div>
+                    <button type="button" class="btn btn-warning" id="searchBtn">Search <span class="glyphicon glyphicon-search"></span></button>
+                </div>
+                <span id="validateCategory">
+                </span>
+            </div>
+
+            <br />
+            <table class="table" id="tableResult">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Song</th>
+                        <th scope="col">Album</th>
+                        <th scope="col">Artist/s</th>
+                    </tr>
+                </thead>
+                <tbody id="songsResult">
+                </tbody>
+            </table>
+
+        </form>
+    </div>
+</div>
